@@ -1,1 +1,3 @@
 Hello world! I am comming up...;)
+
+What are you doing? Pythin and Git hub
